@@ -336,3 +336,15 @@ body{
     align-items: center;
 }
 
+.no-more-orders{
+
+    text-align: center;
+
+    color: #666;
+
+    font-size: 18px;
+
+    font-weight: 500;
+
+}
+
